@@ -1,1 +1,3 @@
 # Analysing-rotten-tomato-dataset
+
+For my project, I chose a Rotten Tomato movie dataset and conducted essential data cleaning tasks, addressing missing values and ensuring data consistency. Leveraging Node.js and MySQL, I built a robust relational database with multiple tables, efficiently organizing movie details. Furthermore, I developed a simple web application to provide users with a clear view of the answers to the questions posed using the dataset. The data cleaning process enhanced the accuracy and reliability of the web application's insights, making it a valuable tool for exploring movie information and gaining valuable insights.
